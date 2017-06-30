@@ -10,4 +10,5 @@ I also was required to add an additional spherical bummper to the existing 1 in 
 and see the results.
 
 I ran this on a laptop with a discrete video card so I also edited the code to look up the discrete video card and use that
-instead of the on-board card.
+instead of the on-board card.  I also added some logic so that if the number of platforms available in a system was only 1 meaning that
+I had disabled the discrete GPU, the application would still function fine without the need to recompile.
