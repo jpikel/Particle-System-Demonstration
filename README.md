@@ -3,6 +3,8 @@ Link to a video from CS475 - Parallel Programming - Demonstration of a Particle 
 
 The video is located here : https://media.oregonstate.edu/media/t/1_gaxpa0y9
 
+Or you may download it above.
+
 The final project for the class.  We were provided a template of the Visualization window and controls.  
 
 My part was to add the dynamic color change to the particles, record performance for a number of different particles.
